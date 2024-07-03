@@ -1,0 +1,13 @@
+public class Ch2_2 {
+
+    public static void main(String[] args){
+        int a;//宣告變數a，但不設定初值
+        int b=4, sum;//宣告b和sum兩個變數，但只將b的值設為4
+        
+        
+        a=5;//設定a的值為5
+        sum=a+b;
+        System.out.println("sum= "+sum);//印出sum的值
+
+    }
+}
